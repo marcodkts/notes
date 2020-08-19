@@ -1,4 +1,4 @@
-1. Acess as super user
+1. Acess as super user: sudo su
 2. Login to mysql: $ mysql -u root -p
 3. Create a database: $ CREATE DATABASE (database name);
 4. USE db_connect;
