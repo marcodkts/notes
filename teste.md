@@ -1,1 +1,1 @@
-teste
+Editado com sucesso pelo terminal
